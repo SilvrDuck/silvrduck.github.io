@@ -50,6 +50,8 @@ Leurs utilisation semble globalement ne pas faire partie de l’ambiance souhait
 
 Les participant-e-s sont plutôt contre l’utilisation des téléphones pour les photos. Le groupe utilisera les appareils photo mis à disposition par des membres du groupe. 
 
+![Une bien belle bâtisse](./cabane.jpg)
+
 ### Résumé des attentes-envies-craintes 
 
 Ces éléments sont là pour nous donner des ressources afin de mieux préparer le camp en fonction des besoins et attente de chacun et chacune.
@@ -72,7 +74,7 @@ Ces éléments sont là pour nous donner des ressources afin de mieux préparer 
 | Inclusion de tous                                            |                                                              |                                                              |
 | Répartir les efforts physiques, surtout par rapport   aux rangements |                                                              |                                                              |
 
-
+![Miam miam miam](./manger.jpg)
 
 # Activités
 
@@ -101,3 +103,9 @@ Un GN organisé par *vous* ! Bien sûr l’équipe mono sera là comme ressource
 # Musicotron 3000
 
 Nous auront quelques lecteurs mp3 à disposition de tout le monde, afin de pouvoir y mettre votre musique, vous pouvez aller simplement l’ajouter à [ce dossier](https://drive.google.com/drive/folders/1DL6h70Q3H29H3r1PpXmL6F-oYV1wa8bH?usp=sharing) !
+
+
+
+# À tout bientôt les cocos !
+
+![On est gentil, on promet](./epouventails.jpg)
