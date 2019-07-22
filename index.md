@@ -1,36 +1,56 @@
+# Imagine arbre 2019
+
+Cette page page à pour but de faciliter la préparation du camp imagine trop top keur qui se déroulera à St-Sorny du 9 au 23 août.
+
+Vous trouverez ici un résumé de la **journée CoPain** où des réflexions sur la vie commune on été vécues. Vous trouverez également le lien de préparation du **GN part** et du **dossier où mettre la musique** plus bas.
+
+## Les monos
+
+```
+![Ces bolos de monos.](./monos.jpg)
+```
+
 ## Résumé de la journée CoPain
 
 Le super dino, c’est cool. 
 
 L’objectif/but commun du camp est que le groupe arrive à s’auto-gérer. Comme d’habitude, on privilégie la spont’ pour les tâches collectives. L’implication de tous et toutes est donc nécessaire pour installer une relation de confiance entre les différentes personnes du camp. Cette ambiance souhaitée nous permettra de prendre nos décisions de manière collective. 
 
-Groupe monitoral
- Ce qui est ressorti des discussions est que les monos doivent instaurer une relation de confiance. L’équipe monitorale se doit d’être bienveillante, neutre et impartiale. Les participant-e-s ont également relevé qu’idéalement : les monos doivent être extérieurs aux conflits qui pourraient arriver et faire de la médiation entre les membres. 
- La proposition qui est faite est que les moniteurs/monitrices sont des « potes à responsabilités » ce qui implique d’avoir des discussions d’égal à égal tout en faisant attention à la relation de pouvoir ! C’est à eux de trancher si une décision importante doit être prise pour le groupe. L’équipe s’annonce être disponible et à l’écoute de tous souhaits, problématiques venant des participant-e-s.
+En réponse aux interrogations ci-dessous, l’équipe mono apportera des propositions d’outils et de mode de régulation de la vie de groupe qui seront proposés en début de camp.
 
-Que faire lors de désaccords avec le groupe ? 
+### Groupe monitoral
+
+Ce qui est ressorti des discussions est que les monos doivent instaurer une relation de confiance. L’équipe monitorale se doit d’être bienveillante, neutre et impartiale. Les participant-e-s ont également relevé qu’idéalement : les monos doivent être extérieurs aux conflits qui pourraient arriver et faire de la médiation entre les membres. 
+
+La proposition qui est faite est que les moniteurs/monitrices sont des « potes à responsabilités » ce qui implique d’avoir des discussions d’égal à égal tout en faisant attention à la relation de pouvoir ! C’est à eux de trancher si une décision importante doit être prise pour le groupe. L’équipe s’annonce être disponible et à l’écoute de tous souhaits, problématiques venant des participant-e-s.
+
+### Que faire lors de désaccords avec le groupe ? 
+
  On discute ensemble, on débat. Le groupe propose de mettre une boîte à idée anonymes (il faudra instaurer certaines règles, le but est de développer un climat positif et d’accepter les idées de tout le monde). Si un désaccord persiste, le groupe préfère miser sur la flexibilité de tous pour trouver une solution qui convienne à tout le monde. L’autre solution est d’en parler en monos d’abord puis, avec les participants. 
 
-### Planifier le temps
+### Comment satisfaire les attentes du groupe ? 
 
- Organisation des tâches à trouver pour faire des trucs cools après. 
- Trouver des accords dans le groupe en amont et trouver un moyen de planifier certaines activités hors GN. 
-
-Comment satisfaire les attentes du groupe ? 
- Le groupe doit être source de motivation pour tout le monde. Les décisions en groupe sont privilégiées. On se fait confiance.
+Le groupe doit être source de motivation pour tout le monde. Les décisions en groupe sont privilégiées. On se fait confiance.
 
 Le groupe annonce déjà que chaque personne faisant partie du camp est légitime de donner son avis, et ses opinions. 
 
-Musique. Deux lecteurs MP3 seront à disposition de tout le groupe pendant le camp. Des règles seront décidées, surtout si les participants  prêtent leur matériel personnel.  
+### Planifier le temps
 
-Combiné intelligent : 
- Les appels seront autorisés selon la fréquence et les moments de la journée.
- Photos. A priori, les participant-e-s sont plutôt contre l’utilisation des téléphones pour les photos. Le groupe utilisera un appareil photo. 
- Pour la recherche d’informations. A rediscuter 
+Organisation des tâches à trouver pour faire des trucs cools après. Trouver des accords dans le groupe en amont et trouver un moyen de planifier certaines activités hors GN. 
 
+### Musique
 
+Deux lecteurs MP3 seront à disposition de tout le groupe pendant le camp. Des règles seront décidées, surtout si les participants  prêtent leur matériel personnel.  
 
-Résumé des attentes-envies-craintes 
+### Combiné intelligent
+
+Leurs utilisation semble globalement ne pas faire partie de l’ambiance souhaitée. Toutefois, en cas de réel besoin, le groupe ne voit pas de raison d’interdire à une personne d’en faire usage (par exemple pour appels importants). *A priori* les monos auront la réserve de ces appareils et verront suivant les demandes que faire. Leur utilisation pour la recherche d’informations n’a pas eu de décision finale et est à rediscuter.
+
+### Photos
+
+Les participant-e-s sont plutôt contre l’utilisation des téléphones pour les photos. Le groupe utilisera les appareils photo mis à disposition par des membres du groupe. 
+
+### Résumé des attentes-envies-craintes 
 
 | Attentes                                                     | Envies                                                       | Craintes                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
