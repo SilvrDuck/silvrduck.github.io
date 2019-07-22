@@ -6,9 +6,7 @@ Vous trouverez ici un résumé de la **journée CoPain** où des réflexions sur
 
 Nous sommes des moniteurices et/ou responsables du CPV et nous nous ferons un plaisir de faire plus ample connaissance avec vous durant le camp. On se réjouit de partir avec vous partager ces deux semaines de folies à St-Sorny !
 
-```
-[[https://github.com/SilvrDuck/silvrduck.github.io/blob/master/monos.jpg|Ces bolos de monos.]]
-```
+![Ces bolos de monos.](./monos.jpg)
 
 De gauche à droite sur la photos : Mélanie, Jon, Florence, Aymeric, Thibault et Deborah.
 
@@ -88,7 +86,7 @@ Les voicis :
 
 Les années folles avec des vampires à Montmartre ! Sortez vos jolis habits de 1920.
 
-### Projet Idunn* et *Vol ATR 72 BOB PPT*
+### *Projet Idunn* et *Vol ATR 72 BOB PPT*
 
 Il s’agit en réalité de deux murder séparées que les joueureuses vont jouer en alternance, nommés *Projet Idunn* et *Vol ATR 72 BOB PPT*. Prévoyez des costumes contemporains. Vos habits normaux ça ira.
 
