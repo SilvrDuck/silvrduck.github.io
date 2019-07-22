@@ -1,14 +1,18 @@
 # Imagine arbre 2019
 
-Cette page page à pour but de faciliter la préparation du camp imagine trop top keur qui se déroulera à St-Sorny du 9 au 23 août.
+Cette page page à pour but de faciliter la préparation du camp imagine trop top keur de ce mois d’août.
 
 Vous trouverez ici un résumé de la **journée CoPain** où des réflexions sur la vie commune on été vécues. Vous trouverez également le lien de préparation du **GN part** et du **dossier où mettre la musique** plus bas.
 
 # Les monos
 
+Nous sommes des moniteurices et/ou responsables du CPV et nous nous ferons un plaisir de faire plus ample connaissance avec vous durant le camp. On se réjouit de partir avec vous partager ces deux semaines de folies à St-Sorny !
+
 ```
-![Ces bolos de monos.](https://github.com/SilvrDuck/silvrduck.github.io/blob/master/monos.jpg)
+[[https://github.com/SilvrDuck/silvrduck.github.io/blob/master/monos.jpg|Ces bolos de monos.]]
 ```
+
+De gauche à droite sur la photos : Mélanie, Jon, Florence, Aymeric, Thibault et Deborah.
 
 # Résumé de la journée CoPain
 
