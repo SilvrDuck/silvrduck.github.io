@@ -4,13 +4,13 @@ Cette page page à pour but de faciliter la préparation du camp imagine trop to
 
 Vous trouverez ici un résumé de la **journée CoPain** où des réflexions sur la vie commune on été vécues. Vous trouverez également le lien de préparation du **GN part** et du **dossier où mettre la musique** plus bas.
 
-## Les monos
+# Les monos
 
 ```
-![Ces bolos de monos.](./monos.jpg)
+![Ces bolos de monos.](https://github.com/SilvrDuck/silvrduck.github.io/blob/master/monos.jpg)
 ```
 
-## Résumé de la journée CoPain
+# Résumé de la journée CoPain
 
 Le super dino, c’est cool. 
 
