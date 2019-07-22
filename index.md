@@ -6,7 +6,7 @@ Vous trouverez ici un résumé de la **journée CoPain** où des réflexions sur
 
 Nous sommes des moniteurices et/ou responsables du CPV et nous nous ferons un plaisir de faire plus ample connaissance avec vous durant le camp. On se réjouit de partir avec vous partager ces deux semaines de folies à St-Sorny !
 
-[[https://github.com/SilvrDuck/silvrduck.github.io/blob/master/monos.jpg|Ces bolos de monos.]]
+![Ces bolos de monos.](https://github.com/SilvrDuck/silvrduck.github.io/blob/master/monos.jpg)
 
 De gauche à droite sur la photos : Mélanie, Jon, Florence, Aymeric, Thibault et Deborah.
 
