@@ -1,5 +1,3 @@
-# Imagine arbre 2019
-
 Cette page page à pour but de faciliter la préparation du camp imagine trop top keur de ce mois d’août.
 
 Vous trouverez ici un résumé de la **journée CoPain** où des réflexions sur la vie commune on été vécues. Vous trouverez également le lien de préparation du **GN part** et du **dossier où mettre la musique** plus bas.
@@ -16,7 +14,7 @@ De gauche à droite sur la photos : Mélanie, Jon, Florence, Aymeric, Thibault 
 
 # Résumé de la journée CoPain
 
-Le super dino, c’est cool. 
+**Le super dino, c’est cool. **
 
 L’objectif/but commun du camp est que le groupe arrive à s’auto-gérer. Comme d’habitude, on privilégie la spont’ pour les tâches collectives. L’implication de tous et toutes est donc nécessaire pour installer une relation de confiance entre les différentes personnes du camp. Cette ambiance souhaitée nous permettra de prendre nos décisions de manière collective. 
 
@@ -73,3 +71,33 @@ Les participant-e-s sont plutôt contre l’utilisation des téléphones pour le
 | Avoir une spont’ qui fonctionne !                            |                                                              | Devoir faire trop de rangements au long du camp              |
 | Inclusion de tous                                            |                                                              |                                                              |
 | Répartir les efforts physiques, surtout par rapport   aux rangements |                                                              |                                                              |
+
+
+
+# Activités
+
+Nous ferons bien sûr moult choses, de la glande, de la marche, de la baignade, du jouage de jeu de rôle ou de plateu, du cuisinage… Et bien sûr, en plus de tout ça, des GN ! 
+
+Les voicis :
+
+### În pădure
+
+### Causeries du Dimanche
+
+Les années folles avec des vampires à Montmartre ! Sortez vos jolis habits de 1920.
+
+### Projet Idunn* et *Vol ATR 72 BOB PPT*
+
+Il s’agit en réalité de deux murder séparées que les joueureuses vont jouer en alternance, nommés *Projet Idunn* et *Vol ATR 72 BOB PPT*. Prévoyez des costumes contemporains. Vos habits normaux ça ira.
+
+### Le GN Parts
+
+Un GN organisé par *vous* ! Bien sûr l’équipe mono sera là comme ressource et du temps et du budget y sera alloué. Pour ceux qui se demandent comment ça va bien pouvoir fonctionner, il sera bien sûr possible de se partager les tâches. Certains créeront peut-être un univers, d’autres une trames, et d’autres encore des rôles ou des décors. Tout est possible. Ces différents groupes pourraient ne pas être au courant du reste, afin de créer une expérience pleine de découvertes pour tout le monde.
+
+**Important :** [Un document a été créé pour *vous*](!https://docs.google.com/document/d/1MhYvLxdCNHgLoeZMCVwXye0EkrCCcs08uuaEztl6B_M/edit?usp=sharing), allez y mettre vos idées de GN !
+
+
+
+# Musicotron 3000
+
+Nous auront quelques lecteurs mp3 à disposition de tout le monde, afin de pouvoir y mettre votre musique, vous pouvez aller simplement l’ajouter à [ce dossier](https://drive.google.com/drive/folders/1DL6h70Q3H29H3r1PpXmL6F-oYV1wa8bH?usp=sharing) !
