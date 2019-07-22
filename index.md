@@ -54,6 +54,8 @@ Les participant-e-s sont plutôt contre l’utilisation des téléphones pour le
 
 ### Résumé des attentes-envies-craintes 
 
+Ces éléments sont là pour nous donner des ressources afin de mieux préparer le camp en fonction des besoins et attente de chacun et chacune.
+
 | Attentes                                                     | Envies                                                       | Craintes                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Avoir du temps libre, se laisser vivre                       | Dormir dehors/au Darkness                                    | Ne pas assez dormir, manger                                  |
