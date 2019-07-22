@@ -12,7 +12,7 @@ De gauche à droite sur la photos : Mélanie, Jon, Florence, Aymeric, Thibault 
 
 # Résumé de la journée CoPain
 
-**Le super dino, c’est cool. **
+**Le super dino, c’est cool.**
 
 L’objectif/but commun du camp est que le groupe arrive à s’auto-gérer. Comme d’habitude, on privilégie la spont’ pour les tâches collectives. L’implication de tous et toutes est donc nécessaire pour installer une relation de confiance entre les différentes personnes du camp. Cette ambiance souhaitée nous permettra de prendre nos décisions de manière collective. 
 
