@@ -1,6 +1,10 @@
-Cette page page à pour but de faciliter la préparation du camp imagine trop top keur de ce mois d’août.
+Liens importants : [dossier musique](https://drive.google.com/drive/folders/1DL6h70Q3H29H3r1PpXmL6F-oYV1wa8bH?usp=sharing) et [idées pour le GN collaboratif](https://docs.google.com/document/d/1MhYvLxdCNHgLoeZMCVwXye0EkrCCcs08uuaEztl6B_M/edit?usp=sharing)
 
-Vous trouverez ici un résumé de la **journée CoPain** où des réflexions sur la vie commune on été vécues. Vous trouverez également le lien de préparation du **GN part** et du **dossier où mettre la musique** plus bas.
+---
+
+Cette page a pour but de faciliter la préparation du camp imagine trop top keur de ce mois d’août.
+
+Vous y trouverez un résumé de la **journée CoPain** où des réflexions sur la vie commune on été vécues. Vous trouverez également le lien de préparation du **GN part** et du **dossier où mettre la musique** plus bas.
 
 # Les monos
 
@@ -9,6 +13,8 @@ Nous sommes des moniteurices et/ou responsables du CPV et nous nous ferons un pl
 ![Ces bolos de monos.](./monos.jpg)
 
 De gauche à droite sur la photos : Mélanie, Jon, Florence, Aymeric, Thibault et Deborah.
+
+---
 
 # Résumé de la journée CoPain
 
@@ -76,6 +82,8 @@ Ces éléments sont là pour nous donner des ressources afin de mieux préparer 
 
 ![Miam miam miam](./manger.jpg)
 
+---
+
 # Activités
 
 Nous ferons bien sûr moult choses, de la glande, de la marche, de la baignade, du jouage de jeu de rôle ou de plateu, du cuisinage… Et bien sûr, en plus de tout ça, des GN ! 
@@ -83,6 +91,8 @@ Nous ferons bien sûr moult choses, de la glande, de la marche, de la baignade, 
 Les voicis :
 
 ### În pădure
+
+Un GN historique qui vous emmenera dans la Roumanie communiste de 1977. Vous y incarnerez des résidents d'un orphelinat d'état et pourrez *créer vos personnages*. Habits 80's ou fin 70's si vous avez.
 
 ### Causeries du Dimanche
 
@@ -92,19 +102,19 @@ Les années folles avec des vampires à Montmartre ! Sortez vos jolis habits de
 
 Il s’agit en réalité de deux murder séparées que les joueureuses vont jouer en alternance, nommés *Projet Idunn* et *Vol ATR 72 BOB PPT*. Prévoyez des costumes contemporains. Vos habits normaux ça ira.
 
-### Le GN Parts
+### GN Palais breton (titre de travail)
 
 Un GN organisé par *vous* ! Bien sûr l’équipe mono sera là comme ressource et du temps et du budget y sera alloué. Pour ceux qui se demandent comment ça va bien pouvoir fonctionner, il sera bien sûr possible de se partager les tâches. Certains créeront peut-être un univers, d’autres une trames, et d’autres encore des rôles ou des décors. Tout est possible. Ces différents groupes pourraient ne pas être au courant du reste, afin de créer une expérience pleine de découvertes pour tout le monde.
 
-**Important :** [Un document a été créé pour *vous*](!https://docs.google.com/document/d/1MhYvLxdCNHgLoeZMCVwXye0EkrCCcs08uuaEztl6B_M/edit?usp=sharing), allez y mettre vos idées de GN !
+**Important :** [Un document a été créé pour *vous*](https://docs.google.com/document/d/1MhYvLxdCNHgLoeZMCVwXye0EkrCCcs08uuaEztl6B_M/edit?usp=sharing), allez y mettre vos idées de GN !
 
-
+---
 
 # Musicotron 3000
 
 Nous auront quelques lecteurs mp3 à disposition de tout le monde, afin de pouvoir y mettre votre musique, vous pouvez aller simplement l’ajouter à [ce dossier](https://drive.google.com/drive/folders/1DL6h70Q3H29H3r1PpXmL6F-oYV1wa8bH?usp=sharing) !
 
-
+---
 
 # À tout bientôt les cocos !
 
